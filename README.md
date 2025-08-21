@@ -30,7 +30,7 @@ Sistema CRUD completo para gerenciamento de produtos desenvolvido em Laravel.
 # Instalação
 
 ## Clone o repositório
-- git clone <url-do-repositorio> LEMBRAR DE TROCAR AQUI
+- git clone https://github.com/JoaoPedroBittar/gerenciador-produtos-laravel.git
 - cd projeto1
 
 ## Instale as dependências PHP
